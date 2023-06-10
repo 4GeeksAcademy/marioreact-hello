@@ -1,5 +1,5 @@
 import React from "react";
-import imagen from "/workspaces/mario-react/src/img/cat.jpg"
+import imagen from "/workspaces/marioreact-hello/src/img/cat.jpg";
 
 const Card = () => {
     return (
